@@ -1,0 +1,8 @@
+name: sql-learning
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - ipykernel
+  - jupyterlab
+  - pandas
